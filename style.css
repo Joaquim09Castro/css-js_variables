@@ -7,7 +7,7 @@
 img {
   background-color: var(--base);
   padding: var(--spacing);
-  filter: var(--blur);
+  filter: blur(var(--blur));
 }
 
 .hl {
